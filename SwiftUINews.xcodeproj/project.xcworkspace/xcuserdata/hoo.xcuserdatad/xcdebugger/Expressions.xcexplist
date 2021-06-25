@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoginView.init(needLogin:):LoginView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "names">
+            </PersistentString>
+            <PersistentString
+               value = "names.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginView.body.getter:LoginView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "names[0].name!">
+            </PersistentString>
+            <PersistentString
+               value = "names.count">
+            </PersistentString>
+            <PersistentString
+               value = "username">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
